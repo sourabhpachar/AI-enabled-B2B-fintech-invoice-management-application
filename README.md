@@ -1,15 +1,11 @@
-# 🌐 AI-Enabled FinTech B2B Invoice Management Application - [DEMO](https://drive.google.com/file/d/1ma4deNGn0aF4oW27GTSH0jssG5VfT-LU/view?usp=sharing)
+# 🌐 AI-Enabled FinTech B2B Invoice Management Application - 
 
 
 ---
 
 
 
-## 🗒️ Introduction to B2B Operations
 
-The B2B world operates differently from the B2C or C2C world. Businesses work with other businesses on credit. When a buyer business orders goods from the seller business, the seller business issues an invoice for the same. This invoice for the goods contains various information like the details of the goods purchased and when it should be paid. This is known in accounting terminology as “Accounts Receivable”
-
----
 ## ❓ Problem Statement
 
 - In the ideal world, the buyer business should payback within the stipulated time (i.e. the Payment Term). However, in the real world, the buyer business seldom pays within their established time frame, and this is where the Account receivables Department comes into picture.
