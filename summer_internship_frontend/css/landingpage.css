@@ -1,0 +1,154 @@
+body{
+  background-color: #58687E;
+  
+}
+#abc
+{
+  margin-left: 30px;
+  margin-top: 16px;
+  width: 289px;
+  height: 52px;
+}
+#logo
+{
+  margin-left: 270px;
+  margin-top: 22px;
+  width: 235px;
+  height: 50px;
+}
+.grid
+{
+  background-color: #273D49CC;
+  
+  
+margin-left: 20px;
+width: 1260px;
+height: 739px;
+background: #273D49CC 0% 0% no-repeat padding-box;
+border-radius: 10px;
+opacity: 1;
+  
+  
+}
+#add-button {
+  margin-top: 30px;
+margin-left: 700px;
+width: 70px;
+height: 45px;
+border: 1px solid #97A1A9;
+border-radius: 10px;
+opacity: 1;
+background-color: #273D49CC;
+color: #97A1A9;
+  
+}
+
+
+#edit-button
+{
+ 
+      margin-top: 30px;
+  margin-left: 20px;
+  width: 70px;
+  height: 45px;
+  border: 1px solid #97A1A9;
+  border-radius: 10px;
+  opacity: 1;
+  background-color: #273D49CC;
+  color: #97A1A9;
+      
+    
+}
+#deletebtn
+{
+  margin-top: 30px;
+  margin-left: 20px;
+  width: 70px;
+  height: 45px;
+  border: 1px solid #97A1A9;
+  border-radius: 10px;
+  opacity: 1;
+  background-color: #273D49CC;
+  color: white;
+      
+}
+#invoicelist
+{
+  margin-top: 32px;
+margin-left: 30px;
+margin-right: 30px;
+
+text-align: left;
+font: normal normal normal 28px/32px Ubuntu;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+#tableheader
+{
+  margin-top: 20px;
+}
+table{
+  margin:  20px;
+  font-size: 1.2em;
+}
+th
+{
+  color: #97A1A9;
+  margin-left: 30px;
+  width: 300px;
+  text-align: left;
+}
+td
+{   color: white;
+  width: 300px;
+  height: 50px;
+}
+.modal {
+display: none; 
+
+z-index: 1; 
+margin-bottom: 400px;
+margin-top: 40px;
+margin-left: 180px;
+width: 75%; 
+height: 70%; 
+border-radius: 20px;
+overflow: auto; 
+background-color: rgb(0,0,0); 
+background-color: rgba(0,0,0,0.4); 
+}
+
+
+.modal-content {
+color:white;
+margin: auto;
+padding: 20px;
+
+width: 90%;
+}
+
+.close {
+color: #aaaaaa;
+float: right;
+font-size: 28px;
+font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+color: #000;
+text-decoration: none;
+cursor: pointer;
+}
+input
+{
+margin-top: 20px;
+margin-left: 50px;
+width: 180px;
+height: 35px;
+background: #283A46 0% 0% no-repeat padding-box;
+border: 1px solid #356680;
+border-radius: 10px;
+opacity: 1;
+}
